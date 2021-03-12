@@ -1,0 +1,7 @@
+name = "cloudflare-pwned-password-worker"
+type = "webpack"
+account_id = "<your CF account ID>"
+workers_dev = true
+route = "<your CF route expression"
+zone_id = "<your CF zone ID>"
+webpack_config = "webpack.config.js"

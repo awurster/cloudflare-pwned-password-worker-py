@@ -1,0 +1,17 @@
+{
+  "name": "cloudflare-pwned-password-worker",
+  "version": "1.0.0",
+  "description": "A python Cloudflare Worker script for checking free HIBP Pwned Passwords API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Andrew Wurster <andrew@awurster.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "transcrypt-loader": "^1.0.2",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
